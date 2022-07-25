@@ -1,3 +1,7 @@
 torch
 torchvision
 spacy_udpipe
+gensim==3.8.0
+transformers
+scipy
+sklearn
