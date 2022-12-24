@@ -7,4 +7,3 @@
 ![Пример интерфейса:](/interface.jpg)
 
 The latest version of the app is in the file app.py, while web_app.py contains an older version that utilizes a compressed fasttext model.
-up
